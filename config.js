@@ -1,7 +1,7 @@
 module.exports = {
     token: '',
-    jailRoleId: '',
-    jailReportChannelId: '',
+    BanRoleId: '',
+    BanReportChannelId: '',
     adminRoleId: '',
     serverid: '',
 };
