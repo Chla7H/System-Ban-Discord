@@ -19,7 +19,7 @@
       "moderation"
     ],
     "author": "Mega Team Development®",
-    "license": "MEGA",
+    "license": "MTD",
     "dependencies": {
       "@discordjs/rest": "^0.1.0-canary.0",
       "discord-api-types": "^0.25.2",
