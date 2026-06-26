@@ -54,4 +54,4 @@ This project is licensed under [MEGA License](LICENSE). See the LICENSE file for
 
 ## Contact
 
-[Discord](https://discord.gg/2P8UMqYuCf)
+[Mega Team Development®](https://discord.gg/2P8UMqYuCf)
