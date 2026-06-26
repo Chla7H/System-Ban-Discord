@@ -1,0 +1,30 @@
+{
+    "name": "System-Ban-Discord",
+    "version": "1.0.0",
+    "description": "A Discord bot for managing a Ban system within servers, allowing admins to temporarily restrict users' access.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Chla7H/System-Ban-Discord.git"
+    },
+    "keywords": [
+      "discord",
+      "Ban",
+      "bot",
+      "discord.js",
+      "moderation"
+    ],
+    "author": "Mega Team Development®",
+    "license": "MEGA",
+    "dependencies": {
+      "@discordjs/rest": "^0.1.0-canary.0",
+      "discord-api-types": "^0.25.2",
+      "discord.js": "^14.14.1",
+      "better-sqlite3": "9.6.0",
+      "quick.db": "^9.1.7"
+    }
+}
