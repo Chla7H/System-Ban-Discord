@@ -46,7 +46,7 @@ We welcome contributions from the community! If you'd like to contribute to the 
 Join us at our Discord server for support and community discussions : [discord.gg/mega](https://discord.gg/2P8UMqYuCf).
 
 ## License
-This project is licensed under [MEGA License](LICENSE). See the LICENSE file for more details.
+This project is licensed under [MTD License](LICENSE). See the LICENSE file for more details.
 
 ## Acknowledgements
 - Code by Mega Team Development®
